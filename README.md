@@ -13,7 +13,9 @@ The information needed to setup the server can be found in the developer dashboa
 eg. 
 
 const client_id = '0551b10288a641de83c34ad655185652'; // YOUR_CLIENT_ID
+
 const client_secret = '5e7252d481554c45ee747f4367d4e227'; // YOUR_SECRET
+
 const redirect_uri = 'http://localhost:8888/callback/'; // YOUR_REDIRECT_URI
 
 https://developer.spotify.com/dashboard/
