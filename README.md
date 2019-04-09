@@ -7,6 +7,7 @@
 3. Set the variables 
 
 For more information on being a spotify developer:
+
 The information needed to setup the server can be found in the developer dashboard
 
 eg. 
